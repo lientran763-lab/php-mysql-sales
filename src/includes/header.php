@@ -19,6 +19,7 @@
 <body>
 
 <div class="p-5 bg-primary text-white text-center">
-    <h1>Hệ thống quản lý bán hàng</h1>
-    <p>Phát triển ứng dụng Web mã nguồn mở</p>
+    <h1>Hệ thống quản lý bán hàng giày LIÊN LIÊNS</h1>
+    <p>Uy tín là thương hiệu, chất lượng là mục tiêu</u> </p>
+    <p>KHÁCH HÀNG LÀ THƯỢNG ĐẾ</u> </p>
 </div>
